@@ -16,5 +16,4 @@ module.exports = {
     // 解析
     resolve: {},
     resolveLoader: {},
-
 }
